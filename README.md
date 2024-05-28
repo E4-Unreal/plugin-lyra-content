@@ -1,6 +1,7 @@
-# Plugin LyraContent
+# Plugin Lyra Content
 
-Lyra Starter Game 콘텐츠 전용 플러그인
+- 에픽게임즈 무료 콘텐츠
+- LyraStarterGame 게임 샘플에서 추출한 콘텐츠 팩
 
 ## 설치 방법
 
