@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 3,
-	"VersionName": "0.2.0",
+	"Version": 4,
+	"VersionName": "0.2.1",
 	"FriendlyName": "Lyra Content",
 	"Description": "LyraStarterGame 게임 샘플에서 추출한 콘텐츠 팩",
 	"Category": "Epic Games Content",
